@@ -1,0 +1,35 @@
+Received: from Exchange03.ifo.local (192.168.0.103) by Exchange03.ifo.local
+ (192.168.0.103) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.544.27 via Mailbox
+ Transport; Tue, 28 Mar 2017 11:45:05 +0200
+Received: from Exchange03.ifo.local (192.168.0.103) by Exchange03.ifo.local
+ (192.168.0.103) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.544.27; Tue, 28
+ Mar 2017 11:45:05 +0200
+Received: from Exchange03.ifo.local ([fe80::10a8:53dd:646d:ffef]) by
+ Exchange03.ifo.local ([fe80::10a8:53dd:646d:ffef%15]) with mapi id
+ 15.01.0544.030; Tue, 28 Mar 2017 11:45:05 +0200
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: "Huber, Matthias" <Huber@ifo.de>
+To: "Schmitt, Alex" <Schmitt@ifo.de>
+Subject: github
+Thread-Topic: github
+Thread-Index: AdKnp+iim5JkRbqhQa2A4bgYK6U1jQ==
+Date: Tue, 28 Mar 2017 11:45:05 +0200
+Message-ID: <23211122c2f5403e81a78feb4d32a00e@ifo.de>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <23211122c2f5403e81a78feb4d32a00e@ifo.de>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: Exchange03.ifo.local
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.2.216]
+X-MS-Exchange-Organization-Network-Message-Id: c78661f8-a17c-409c-1497-08d475bf1d23
+Return-Path: Huber@ifo.de
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2656386
